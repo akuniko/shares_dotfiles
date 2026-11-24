@@ -5,7 +5,7 @@ DOTFILES_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 # Extensions for code-server (the browser VS Code)
 extensions=(
-    "anthropic.claude-code",
+    "anthropic.claude-code"
     "openai.chatgpt"
 )
 
